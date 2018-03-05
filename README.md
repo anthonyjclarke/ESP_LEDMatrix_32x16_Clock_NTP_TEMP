@@ -3,7 +3,8 @@
 A simple LED NTP Clock made with Wemos &amp; Cheap LED Panel and a DHT22 Sensor
 
 ![alt text](/Clock3.png "Description goes here")
-
+![alt text](/Clock2.png "Description goes here")
+![alt text](/Clock1.png "Description goes here")
 
 Forked originally from the code shared in the video by @cbm80amiga here - https://www.youtube.com/watch?v=2wJOdi0xzas&t=32s
 
